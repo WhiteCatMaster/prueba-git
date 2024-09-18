@@ -3,7 +3,7 @@ package pruebaGit;
 public class ffff {
 
 	public static void main(String[] args) {
-		System.out.println("adiossssssssssssssssss mundo");
+		System.out.println("se termina la clase");
 
 	}
 
